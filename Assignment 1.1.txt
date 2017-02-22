@@ -1,0 +1,49 @@
+1.sources of bigdata:
+
+*Social media eg-facebook,gmail,youtube.
+
+*Banking Transaction 
+
+*Public data
+
+*Business applications
+
+*Documents from the company.
+
+
+
+
+
+2.3v's of bigdata:
+
+*Volume-amount of data
+
+*Variety-Data Sources i.e types of data
+
+*Velocity-Speed of data processing.
+
+
+
+
+3.
+*Horizontal Scaling :
+
+Horizontal scaling means adding more system to reduce the work and to increase the performance speed.
+ 
+*Vertical Scaling:
+
+Vertical scaling means adding more resources to the single system i.e existing system.
+
+
+
+4.Need and working of Hadoop:
+
+    Now-a-days large amount of data are generated per each and every second, the data that generated not only structured but also semi-structured and unstructured data which cannot be possible using msql so the concept of bigdata came into existence.
+ 
+   Hadoop is an open source, Java-based programming framework that supports the processing and storage of extremely large data sets in a distributed computing environment.
+    
+
+
+
+
+
